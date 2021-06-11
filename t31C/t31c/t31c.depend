@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622821220 source:/net/eniac.dcti.sut.ru/srv/nfs4/homes/homes/students/ikts92/ikts92n15/t31C/t31c/main.cpp
+	<string.h>
+	<fstream>
+
